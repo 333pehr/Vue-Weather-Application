@@ -1,0 +1,4 @@
+This web application is using OpenWeather's API.
+If you had any problems with accessing the API, you must visit the site:
+https://openweathermap.org/
+and sign up there, generate a personal API key and replace it with api_key in app.vue file.
